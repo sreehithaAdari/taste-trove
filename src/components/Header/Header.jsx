@@ -9,8 +9,8 @@ const Header = () => {
       <Navbar />
       <div className='header-content flex align-center justify-center flex-column text-center'>
         <SearchForm />
-        <h1 className='text-white header-title ls-2'>What are your favorite cuisines?</h1>
-        <p className='text-uppercase text-white my-3 ls-1'>Personalize your experience</p>
+        <h1 className='text-white header-title ls-2'>Unlock the taste!!</h1>
+        <p className='text-uppercase text-white my-3 ls-1'>Where every recipe tells a story <img src="" alt="" /></p>
       </div>
     </header>
   )
